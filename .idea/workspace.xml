@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a366187b-d76d-476f-b1e3-2ef0328174b6" name="Changes" comment="lesson_04" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lesson_4" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kazantip404&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kazantip404/Python_Homework.git&quot;,
+    &quot;accountId&quot;: &quot;be8b9e5d-c52e-417c-a951-65972b134a74&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="32ruu8TABsUq0Xx68HWqyisffpB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.pytest in test_string_utils.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Adress.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mailing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_1_task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_1_task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_1_task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_1_task_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_1_task_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2_task_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_3_task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_3_task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_3_task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_utils.executor&quot;: &quot;Run&quot;,
+    &quot;Python.user.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lesson__04&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ПК/Desktop/Python/Python_Homework/Lesson_01&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ПК\Desktop\Python\Python_Homework\Lesson_01" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ПК\Desktop\Python\Python_Homework\Lesson_04" />
+      <recent name="C:\Users\ПК\Desktop\Python\Python_Homework\lesson_02\lesson_02" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a366187b-d76d-476f-b1e3-2ef0328174b6" name="Changes" comment="" />
+      <created>1758191231561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758191231561</updated>
+    </task>
+    <task id="LOCAL-00001" summary="lesson 1">
+      <option name="closed" value="true" />
+      <created>1758191858707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758191858707</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lesson1">
+      <option name="closed" value="true" />
+      <created>1758192248842</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758192248842</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lesson_01">
+      <option name="closed" value="true" />
+      <created>1758194110361</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758194110361</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lesson_01">
+      <option name="closed" value="true" />
+      <created>1758194634732</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758194634732</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lesson_02">
+      <option name="closed" value="true" />
+      <created>1758825074561</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758825074561</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lesson_02">
+      <option name="closed" value="true" />
+      <created>1758825325282</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1758825325282</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lesson_02">
+      <option name="closed" value="true" />
+      <created>1758828900692</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1758828900692</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lesson_03">
+      <option name="closed" value="true" />
+      <created>1758887638039</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1758887638039</updated>
+    </task>
+    <task id="LOCAL-00009" summary="lesson_04">
+      <option name="closed" value="true" />
+      <created>1760352262640</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1760352262640</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lesson_04">
+      <option name="closed" value="true" />
+      <created>1760352366564</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1760352366564</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 1" />
+    <MESSAGE value="lesson1" />
+    <MESSAGE value="lesson_01" />
+    <MESSAGE value="lesson_02" />
+    <MESSAGE value="lesson_03" />
+    <MESSAGE value="lesson_04" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_04" />
+  </component>
+</project>
