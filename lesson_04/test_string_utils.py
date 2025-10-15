@@ -1,7 +1,7 @@
 import pytest
 from string_utils import StringUtils
 
-# Создаем экземпляр класса для тестирования
+# Создаем экземпляр класса для тестирования.
 string_utils = StringUtils()
 
 
