@@ -8,7 +8,7 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
 try:
     driver.get("http://uitestingplayground.com/dynamicid")
-    blue_button = driver.find_element(By.XPATH, "//button[text()='Button with Dynamic ID']")
+    blue_button = driver.find_element(By.CSS_SELECTOR, "button.btn-primary")
     blue_button.click()
     time.sleep(3)
 except Exception as e:
