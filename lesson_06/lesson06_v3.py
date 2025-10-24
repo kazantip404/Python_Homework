@@ -1,8 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
-import time
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
@@ -11,15 +12,13 @@ try:
         "https://bonigarcia.dev/selenium-webdriver-java/loading-images.html"
     )
 
-    # 10 сек. ожидания для загрузки всех картинок
-    time.sleep(10)
+    # Ждем конкретную картинку с id="award"
+    award_image = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located((By.ID, "award"))
+    )
 
-    # Получаем все картинки с тегом img
-    images = driver.find_elements(By.TAG_NAME, "img")
-
-    # атрибут src
-    src_value = images[3].get_attribute("src")
-
+    # Получаем src атрибут
+    src_value = award_image.get_attribute("src")
     print(src_value)
 
 finally:

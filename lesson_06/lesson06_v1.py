@@ -12,7 +12,7 @@ try:
 
     driver.find_element(By.ID, "ajaxButton").click()
 
-    # Получить текст из зеленой плашки
+    # получаем текст из зеленой плашки
     text = WebDriverWait(driver, 15).until(
         EC.visibility_of_element_located((By.CLASS_NAME, "bg-success"))
     ).text

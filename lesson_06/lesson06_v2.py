@@ -1,4 +1,3 @@
-from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
@@ -23,6 +22,5 @@ try:
 
     print(button_text)
 
-    sleep(2)
 finally:
     driver.quit()
